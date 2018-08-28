@@ -1,0 +1,12 @@
+---
+title: "README"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+本项目以WeRateDogs网站数据为依据进行数据清洗。
