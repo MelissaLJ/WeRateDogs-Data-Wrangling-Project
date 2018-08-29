@@ -1,12 +1,4 @@
----
-title: "README"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## R Markdown
 
-本项目以WeRateDogs网站数据为依据进行数据清洗。
+该项目基于推特WeRateDogs档案数据，结合对档案图像预测数据以及推特的转发和点赞数据，通过对数据质量和整洁度的一系列评估与清洗工作，我们最终得到了可用于数据分析和可视化的数据集twitter_archive_master.csv。
